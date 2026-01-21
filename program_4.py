@@ -1,3 +1,7 @@
+# Name: Ariana Fafach
+# Date: 1/21/2026
+# Title: Program #4: Temp Conversion
+
 # Look at line 17 first.
 # This program introduces a couple new concepts,
 # we'll be covering those in the weeks ahead
@@ -9,7 +13,8 @@ def temp_conversion(celsius):
     # Calculate the Fahrenheit equivalent.
     fahrenheit = 0.0
     ######################
-    # WRITE YOUR CODE HERE
+    # Wrote my code here:
+    fahrenheit = (9/5) * celsius + 32
     ######################    
 
 
